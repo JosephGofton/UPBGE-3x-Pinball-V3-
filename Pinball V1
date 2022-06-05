@@ -1,0 +1,43 @@
+UPBGE Pinball V1.91 Game Upgrade (Recommended Graphic Card Nvidia Gforce 2070 & an intel i7). something that maintains 60 frames per second.
+
+Image animation code upgraded with .py script.
+Replaced the Logic Brick AddObject with visibility (frames per second performance has improved).
+Unchecked Use Viewport Render under Game Resolution. (Replacemesh() method from the UPBGE API will only run when the 'use viewport render' is unchecked).
+Flippers upgraded.
+Code & Extensive Table Physic Bug fixes. 
+Frames Per second now hovering around the 60 fps for longer periods during game play. (Your graphic card must support 60 fps to acheive this)
+Extra Camera Views added.
+Mouse camera control added.
+Packed the Images into blender file
+Upgraded Features 1 - 4 Player selection,
+1 -3 Ball selection, 
+High score Board, 
+Targets & loop rankers, 
+Loop circuit, 
+Ball saver, 
+Auto plunger, 
+Bonus scores, 
+Dmd animations, 
+Table Animations, 
+Ball color change, 
+MultiBall, 
+Ball Trailer, 
+Plunger Lane & Spinner hinge actuators.
+
+More to be added.
+
+Please enjoy & rob what you can from it if you wish.
+
+Upgrades with bug fixes to Pinball V1.91 can be downloaded from:
+
+https://www.dropbox.com/s/v202mh25p7iaiil/UPGBE%20Pinball%20V1.91.Blend?dl=0
+
+Load the game using UPBGE(3x). The Game mode will show first (Out off Edit Mode Press 'P' or standalone start to get it up & running) 
+
+Keyboard instruction will appear & the rest is all down to the user.
+
+VP forum holds four more tables that I have worked on: PacMan, TexasPoker, Invader & Skittles which may appeal to you. 
+It is a visual basic coded-driven pinball game. It's all freeware for non-profit use only. 
+You may also find them with AtGames if they are still being used by them. 
+
+https://www.vpforums.org/index.php?app=core&module=search&do=user_activity&search_app=downloads&mid=116605
