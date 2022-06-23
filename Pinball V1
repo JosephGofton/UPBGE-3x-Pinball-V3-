@@ -1,34 +1,16 @@
-UPBGE Pinball V1.91 Game Upgrade (Recommended Graphic Card Nvidia Gforce 2070 & an intel i7). something that maintains 60 frames per second.
+Please find enclosed UPBGE Pinball V2.1 Game Upgrade (Recommended Graphic Card Nvidia Gforce 2070 & an intel i7).
 
-Image animation code upgraded with .py script.
-Replaced the Logic Brick AddObject with visibility (frames per second performance has improved).
-Unchecked Use Viewport Render under Game Resolution. (Replacemesh() method from the UPBGE API will only run when the 'use viewport render' is unchecked).
-Flippers upgraded.
-Code & Extensive Table Physic Bug fixes. 
-Frames Per second now hovering around the 60 fps for longer periods during game play. (Your graphic card must support 60 fps to acheive this)
-Extra Camera Views added.
-Mouse camera control added.
-Packed the Images into blender file
-Upgraded Features 1 - 4 Player selection,
-1 -3 Ball selection, 
-High score Board, 
-Targets & loop rankers, 
-Loop circuit, 
-Ball saver, 
-Auto plunger, 
-Bonus scores, 
-Dmd animations, 
-Table Animations, 
-Ball color change, 
-MultiBall, 
-Ball Trailer, 
-Plunger Lane & Spinner hinge actuators.
+1 - 4 Player selection,1 -3 Ball selection, High score Board, Targets & loop rankers, Loop circuit, Ball saver, Auto plunger, Bonus scores,
+Dmd animations, Table Animations, Ball color change, MultiBall, Ball Trailer, Plunger Lane & Spinner hinge actuators.
 
-More to be added.
+1. More .py code added & bug fixes
+2. In 'Render Properties' do not check the 'Use Viewport Render box'
+3. In 'Game Play Camera Mode' under 'Viewport Shading' check that the 'Scene Lights' check box has been checked.  
+4. Please enjoy & rob what you can from it if you wish.
 
 Please enjoy & rob what you can from it if you wish.
 
-Upgrades with bug fixes to Pinball V1.91 can be downloaded from:
+Upgrades with bug fixes to Pinball V2.1 can be downloaded from:
 
 https://www.dropbox.com/s/v202mh25p7iaiil/UPGBE%20Pinball%20V1.91.Blend?dl=0
 
