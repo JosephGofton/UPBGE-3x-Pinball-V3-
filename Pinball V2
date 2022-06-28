@@ -1,19 +1,21 @@
-Please find enclosed UPBGE 0.3+ Pinball V2.2 Game Upgrade (Recommended Graphic Card Nvidia Gforce 2070 & an intel i7).
+Please find enclosed UPBGE 0.3 Pinball V2.8 Game Upgrade (Recommended Graphic Card Nvidia Gforce 2070 & an intel i7).
 
 1 - 4 Player selection,1 -3 Ball selection, High score Board, Targets & loop rankers, Loop circuit, Ball saver, Auto plunger, Bonus scores,
 Dmd animations, Table Animations, Ball color change, MultiBall, Ball Trailer, Plunger Lane & Spinner hinge actuators.
 
-1. More .py code added & bug fixes
-2. In 'Render Properties' do not check the 'Use Viewport Render box'
-3. In 'Game Play Camera Mode' under 'Viewport Shading' check that the 'Scene Lights' check box has been checked.  
+1. Bug fixes.
+2. Ball trailer with image runner added
+3. In ‘Render Properties’ do not check the ‘Use Viewport Render box’
+4. In ‘Game Play Camera Mode’ under ‘Viewport Shading’ check that the ‘Scene Lights’ check box has been checked.
+5. In Edit / Preferences / Addons check Game Engine Logic Nodes. Else ball trailer will not run.
 
 Please enjoy & rob what you can from it if you wish.
 
-Upgrades with bug fixes to Pinball V2.2 can be downloaded from:
+Upgrades with bug fixes to Pinball V2.8 can be downloaded from:
 
 https://www.dropbox.com/s/tsmezozr1jcm0yf/UPGBE%20Pinball%20V2.2.Blend?dl=0
 
-Load the game using UPBGE(3x). The Game mode will show first (Out off Edit Mode Press 'P' or standalone start to get it up & running) 
+Load the game using UPBGE(0.3). The Game mode will show first (Out off Edit Mode Press 'P' or standalone start to get it up & running) 
 
 Keyboard instruction will appear & the rest is all down to the user.
 
