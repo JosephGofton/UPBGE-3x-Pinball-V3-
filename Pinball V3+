@@ -3,9 +3,14 @@ Please find enclosed UPBGE 0.3 Pinball V3.16 Game Upgrade (Recommended Graphic C
 1 - 4 Player selection,1 -3 Ball selection, High score Board, Targets & loop rankers, Loop circuit, Ball saver, Auto plunger, Bonus scores,
 Dmd animations, Table Animations, Ball color change, MultiBall, Ball Trailer, Plunger Lane & Spinner hinge actuators.
 
+– 3.194 Upgrade –
+1. Bug fixes.
+2. Added ‘Align Axis to Vector & Rotate To’ to the ball image trailer Nodes
+
+– 3.16 upgrade –
 1. Bug fixes.
 2. New ball trailers with image runner & alpha nodes introduced.
-3. Animation ball colour change replaces nodes.
+3. Animation ball color change replaces nodes.
 4. Improved the frames per second performance.
 
 Notes
@@ -27,6 +32,6 @@ Keyboard instruction will appear & the rest is all down to the user.
 
 VP forum holds four more tables that I have worked on: PacMan, TexasPoker, Invader & Skittles which may appeal to you. 
 It is a visual basic coded-driven pinball game. It's all freeware for non-profit use only. 
-You may also find them with AtGames if they are still being used by them. 
+You may also find them with AtGames if they are still using them. 
 
 https://www.vpforums.org/index.php?app=core&module=search&do=user_activity&search_app=downloads&mid=116605
