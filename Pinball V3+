@@ -6,9 +6,11 @@ Dmd animations, Table Animations, Ball color change, MultiBall, Ball Trailer, Pl
 - 3.1994
 1. Reconfigured the BallTrailer Image Nodes.
 2. Upgraded the BallTrailer Images.
-3. Introduced a MouseMoveP1ball1.py for table hit object testing.
+3. Introduced a MouseMoveP1ball1.py for table hit object testing. F9 activates the code.
 4. Some bug fixes.
-5. Game physic tweaks. 
+5. Game physic tweaks.
+6. Plunger, Flipper left & Right will deactivate the mouse move ball & mouse move camera code.
+7. Updated the User key guide to reflect changes.
 
 - 3.195 Upgrade -
 1. Changed the 'Rotate To "Rot Axis" to X' which corrected the ball image trailer bug'
