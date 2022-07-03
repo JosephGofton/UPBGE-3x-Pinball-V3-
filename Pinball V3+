@@ -1,7 +1,14 @@
-Please find enclosed UPBGE 0.3 Pinball V3.195 Game Upgrade (Recommended Graphic Card Nvidia Gforce 2070 & an intel i7).
+Please find enclosed UPBGE 0.3 Pinball V3.1994 Game Upgrade (Recommended Graphic Card Nvidia Gforce 2070 & an intel i7).
 
 1 - 4 Player selection,1 -3 Ball selection, High score Board, Targets & loop rankers, Loop circuit, Ball saver, Auto plunger, Bonus scores,
 Dmd animations, Table Animations, Ball color change, MultiBall, Ball Trailer, Plunger Lane & Spinner hinge actuators.
+
+- 3.1994
+1. Reconfigured the BallTrailer Image Nodes.
+2. Upgraded the BallTrailer Images.
+3. Introduced a MouseMoveP1ball1.py for table hit object testing.
+4. Some bug fixes.
+5. Game physic tweaks. 
 
 - 3.195 Upgrade -
 1. Changed the 'Rotate To "Rot Axis" to X' which corrected the ball image trailer bug'
@@ -23,9 +30,10 @@ Notes
 
 Please enjoy & rob what you can from it if you wish.
 
-Upgrades with bug fixes to Pinball V3.195 can be downloaded from:
+Upgrades with bug fixes to Pinball V3.1994 can be downloaded from:
 
 https://www.dropbox.com/s/50be6dj08vg6uxu/UPGBE%20Pinball%20V3.195%20Blend.blend?dl=0
+https://www.dropbox.com/s/4z5v03xkw6vhdxl/UPGBE%20Pinball%20V3.1994%20Blend.blend?dl=0
 https://www.youtube.com/watch?v=fpG-tovinL8&feature=youtu.be
 
 Load the game using UPBGE(0.3). The Game mode will show first (Out off Edit Mode Press 'P' or standalone start to get it up & running) 
