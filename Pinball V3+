@@ -57,9 +57,8 @@ Dmd animations, Table Animations, Ball color change, MultiBall, Ball Trailer, Pl
 4. Improved the frames per second performance.
 
 Notes
-1. In ‘Render Properties’ do not check the ‘Use Viewport Render box’ : else the replacemesh() api code fails to run.
-2. In ‘Game Play Camera Mode’ under ‘Viewport Shading’ check that the ‘Scene Lights’ check box has been checked : else the lights will not function.
-3. In Edit / Preferences / Addons check Game Engine Logic Nodes. Else ball trailer nodes will not run.
+1. In ‘Game Play Camera Mode’ under ‘Viewport Shading’ check that the ‘Scene Lights’ check box has been checked : else the lights will not function.
+2. In Edit / Preferences / Addons check Game Engine Logic Nodes. Else ball trailer nodes will not run.
 
 Please enjoy & rob what you can from it if you wish.
 
