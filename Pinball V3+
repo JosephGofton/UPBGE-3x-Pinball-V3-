@@ -6,7 +6,7 @@ Dmd animations, Table Animations, Ball color change, MultiBall, Ball Trailer, Pl
  3.2056 Upgrade
 1.  Table model rebuild (which removed the first build model bugs).
 2.  logic brick bugs removed.
-3.  Replaced all logic brick delays with logic brick always sensers & property increments.
+3.  Replaced all logic brick delays with logic brick always sensors & property increments.
 4.  Replaced the replacemesh() code with a sprite image script code runner.
 5.  Added three bumpers with animations.
 6.  Removed the mouse camera code and replaced it with the built in logic brick camera control code.
